@@ -8,7 +8,7 @@ If you're after the game itself, [go to it's homepage][home].
 
 ## Arch Linux packaging
 
-* [**nsnake on AUR**]
+* [**nsnake on AUR**][aur]
 
 Unlike [other systems](https://github.com/alexdantas/nsnake.debian), packaging for
 Arch Linux is fairly easy.
