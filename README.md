@@ -36,9 +36,12 @@ $ updpkgsums
 # 3. Compiles it on the current dir;
 $ makepkg
 
-# Creates an AUR ball (.src.tar.gz), ready to uploaded
-# to AUR via their web interface
+# Creates an AUR ball (.src.tar.gz), ready to
+# be uploaded to AUR
 $ mkaurball
+
+# Nice helper that directly uploads to AUR
+burp *.src.tar.gz
 ```
 
 [home]: http://nsnake.alexdantas.net/
